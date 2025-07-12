@@ -16,4 +16,5 @@ Bu proje, küçük ve orta ölçekli işletmelerin ürün, kategori ve stok bilg
 - SQL Server Veritabanı 🗃️  
 
 ## Ekran Görüntüleri
-> 📸  
+> 📸  <img width="569" height="285" alt="Image" src="https://github.com/user-attachments/assets/c76f310c-796b-4848-9146-9bf24888d9e6" />
+
